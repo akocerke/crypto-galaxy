@@ -138,26 +138,12 @@ Mit:
 
 ---
 
-## 🖼️ Screens (Optional)
-
-Hier kannst du später GIFs/Screenshots einbauen:
-
-```
-/screens/
- ├── galaxy.png
- ├── planets.gif
- ├── modal.png
-```
-
----
-
 ## ❤️ Support
 
 Wenn dir das Projekt gefällt:
 
 ⭐ **Repo star geben**
 🐛 Issues melden
-🔧 Pull Requests willkommen
 
 ---
 
